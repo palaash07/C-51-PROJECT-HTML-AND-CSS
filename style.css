@@ -1,0 +1,20 @@
+h1{
+   color:#ffff9f
+}
+h2{
+    color:#9f0f8f
+}
+
+*{
+  border: solid;
+  background:#ff6f00
+}
+.header{
+    border: solid;
+}
+p,h1,h2{
+  text-align: flex;
+}
+
+
+
